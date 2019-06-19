@@ -1,0 +1,320 @@
+{
+  "states": [
+     {
+    "nameOfState": "Madhya Pradesh",
+    "applicants": [
+      {
+        "nameOfApplicant" : "Suhas tupe",
+        "lat":24.164891,
+        "lng":77.677810
+      },
+      {
+        "nameOfApplicant" : "Akshay sane",
+        "lat":23.713739,
+        "lng":75.888266
+      },
+      {
+        "nameOfApplicant" : "Sachin  rane",
+        "lat":23.030258,
+        "lng":77.136091
+      },
+      {
+        "nameOfApplicant" : "sai jayant",
+        "lat":22.837794,
+        "lng":76.114111
+      },
+      {
+        "nameOfApplicant" : "rakesh kulthe",
+        "lat":23.040866,
+        "lng":77.171134
+      }
+      ]
+    
+  },
+  {
+    "nameOfState": "Maharashtra",
+    "applicants": [
+      {
+        "nameOfApplicant" : "sanjay dusane",
+        "lat":19.664293,
+        "lng":73.856560
+
+      },
+      {
+        "nameOfApplicant" : "Ram singh",
+        "lat":20.025935,
+        "lng":75.546958
+      },
+      {
+        "nameOfApplicant" : "kajal  sinha",
+        "lat":19.865824,
+        "lng":76.737970
+      },
+      {
+        "nameOfApplicant" : "rupesh kale",
+        "lat":17.969505,
+        "lng":74.191461
+      },
+      {
+        "nameOfApplicant" : "prashant kulthe",
+        "lat":17.672959,
+        "lng":73.413302
+      }
+      ]
+    
+  },
+  {
+    "nameOfState": "Haryana",
+    "applicants": [
+      {
+        "nameOfApplicant" : "durva kulkarni",
+        "lat":28.510911,
+        "lng":76.295690
+
+      },
+      {
+        "nameOfApplicant" : "aksah wagh",
+        "lat":29.978557,
+        "lng":76.855584
+      },
+      {
+        "nameOfApplicant" : "sandip  sharma",
+        "lat":29.488423,
+        "lng":75.038006
+      },
+      {
+        "nameOfApplicant" : "virat kholi",
+        "lat":29.229040,
+        "lng":76.854428
+      },
+      {
+        "nameOfApplicant" : "suresh raina",
+        "lat":29.226755,
+        "lng":76.855501
+      }
+      ]
+    
+  },{
+    "nameOfState": "Gujrat",
+    "applicants": [
+      {
+        "nameOfApplicant" : "khatan shah",
+        "lat":22.317300,
+        "lng":71.119790
+
+      },
+      {
+        "nameOfApplicant" : "bhawesh shah",
+        "lat":22.313590,
+        "lng":71.137508
+      },
+      {
+        "nameOfApplicant" : "varsha  deshmukh",
+        "lat":22.325585,
+        "lng":71.134812
+      },
+      {
+        "nameOfApplicant" : "virat kholi",
+        "lat":22.333984,
+        "lng":71.120034
+      },
+      {
+        "nameOfApplicant" : "suresh raina",
+        "lat":22.345312,
+        "lng":71.202066
+      }
+      ]
+    
+  },{
+    "nameOfState": "Himachal Pradesh",
+    "applicants": [
+      {
+        "nameOfApplicant" : "vvs laxman",
+        "lat":31.721897,
+        "lng":76.283822
+
+      },
+      {
+        "nameOfApplicant" : "viru dhonde",
+        "lat":31.285752,
+        "lng":76.822315
+      },
+      {
+        "nameOfApplicant" : "pratap  deshmukh",
+        "lat":32.291418,
+        "lng":76.047054
+      },
+      {
+        "nameOfApplicant" : "amit gore",
+        "lat":32.291748,
+        "lng":76.053303
+      },
+      {
+        "nameOfApplicant" : "sam sassi",
+        "lat":32.302455,
+        "lng":76.078999
+      }
+      ]
+    
+  },
+  {
+    "nameOfState": "Odisha",
+    "applicants": [
+      {
+        "nameOfApplicant" : "senu jame",
+        "lat":20.980101,
+        "lng":85.735412
+
+      },
+      {
+        "nameOfApplicant" : "tom kane",
+        "lat":20.983043,
+        "lng":85.738077
+      },
+      {
+        "nameOfApplicant" : "roop  deshmukh",
+        "lat":20.977120,
+        "lng":85.754804
+      },
+      {
+        "nameOfApplicant" : "himesh gore",
+        "lat":20.976439,
+        "lng":85.766756
+      },
+      {
+        "nameOfApplicant" : " sundar kale",
+        "lat":20.975983,
+        "lng":85.785148
+      }
+      ]
+    
+  },{
+    "nameOfState": "Karnataka",
+    "applicants": [
+      {
+        "nameOfApplicant" : "Mario Speedwagon",
+        "lat":16.315585,
+        "lng":76.056520
+
+      },
+      {
+        "nameOfApplicant" : "Petey Cruiser",
+        "lat":16.260401,
+        "lng":76.086818
+      },
+      {
+        "nameOfApplicant" : "Anna Sthesia",
+        "lat":16.273101,
+        "lng":76.102875
+      },
+      {
+        "nameOfApplicant" : "Paul Molive",
+        "lat":16.287676,
+        "lng":76.107906
+      },
+      {
+        "nameOfApplicant" : "Anna Mull",
+        "lat":16.304351,
+        "lng":76.120067
+      }
+      ]
+    
+  },{
+    "nameOfState": "West Bengal",
+    "applicants": [
+      {
+        "nameOfApplicant" : "Gail Forcewind",
+        "lat":23.575562,
+        "lng":87.789066
+
+      },
+      {
+        "nameOfApplicant" : "Paige Turner",
+        "lat":23.577735,
+        "lng":87.791480
+      },
+      {
+        "nameOfApplicant" : "Bob Frapples",
+        "lat":23.573393,
+        "lng":87.770443
+      },
+      {
+        "nameOfApplicant" : "Walter Melon",
+        "lat":23.581812,
+        "lng":87.757125
+      },
+      {
+        "nameOfApplicant" : "Nick R. Bocker",
+        "lat":23.568400,
+        "lng":87.791373
+      }
+      ]
+    
+  },{
+    "nameOfState": "kerala",
+    "applicants": [
+      {
+        "nameOfApplicant" : "Barb Ackue",
+        "lat":10.381381,
+        "lng":76.491402
+
+      },
+      {
+        "nameOfApplicant" : "Buck Kinnear",
+        "lat":10.207675,
+        "lng":76.556303
+      },
+      {
+        "nameOfApplicant" : "Greta Life",
+        "lat":9.153735,
+        "lng":76.869024
+      },
+      {
+        "nameOfApplicant" : "Ira Membrit",
+        "lat":9.140711,
+        "lng":76.886036
+      },
+      {
+        "nameOfApplicant" : "Shonda Leer",
+        "lat":9.136315,
+        "lng":76.882251
+      }
+      ]
+    
+  },
+  {
+    "nameOfState": "Tamil Nadu",
+    "applicants": [
+      {
+        "nameOfApplicant" : "Brock Lee",
+        "lat":11.336154,
+        "lng":77.806447
+
+      },
+      {
+        "nameOfApplicant" : "Maya Didas",
+        "lat":11.794253,
+        "lng":78.873575
+      },
+      {
+        "nameOfApplicant" : "Rick O'Shea",
+        "lat":11.788248,
+        "lng":78.887408
+      },
+      {
+        "nameOfApplicant" : "Pete Sariya",
+        "lat":11.781549,
+        "lng":78.900506
+      },
+      {
+        "nameOfApplicant" : "Monty Carlo",
+        "lat":11.780922,
+        "lng":78.921232
+      }
+      ]
+    
+  }
+
+  ]
+  
+}
